@@ -102,9 +102,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const wedate = document.getElementById("wedate");
         const btns = document.getElementById("btns");
         btns.style.display = "none";
-        wedate.innerText = "We are each other's valentine now. Ring Chai Ma Japan Aauda la. ❤️😘";
-
-        
+     
 
     } else {
         alert("Don't say yes right away, cutie. Play around a bit 😉😘");
