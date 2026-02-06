@@ -109,6 +109,7 @@ document.addEventListener("DOMContentLoaded", function () {
     } else {
         alert("Don't say yes right away, cutie. Play around a bit 😉😘");
     }
+  }
 
   
   function ly2() {
