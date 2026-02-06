@@ -104,13 +104,11 @@ document.addEventListener("DOMContentLoaded", function () {
         btns.style.display = "none";
         wedate.innerText = "We are each other's valentine now. Ring Chai Ma Japan Aauda la. ❤️😘";
 
-        // Open index1.html in the SAME tab for a smoother surprise
-        window.location.href = "index1.html";
+        
 
     } else {
         alert("Don't say yes right away, cutie. Play around a bit 😉😘");
     }
-}
 
   
   function ly2() {
@@ -118,5 +116,9 @@ document.addEventListener("DOMContentLoaded", function () {
     model.style.display = "none";
     let model2 = document.getElementById("model");
     model2.style.display = "none";
+
+      // Open index1.html in the SAME tab for a smoother surprise
+        window.location.href = "index1.html";
   }
+
   
