@@ -104,7 +104,7 @@ document.addEventListener("DOMContentLoaded", function () {
         btns.style.display = "none";
         wedate.innerText = "We are each other's valentine now. Ring Chai Ma Japan Aauda la. ❤️😘";
 
-        // Open index1.html in a new tab
+        // Open index1.html in the SAME tab for a smoother surprise
         window.location.href = "index1.html";
 
     } else {
